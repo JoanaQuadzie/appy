@@ -26,5 +26,7 @@ if(age == 18) {
 
 for (let i = 1; i == 8; i++) (
     console.log("The value if i is", i)
+
 )
+console.log("we are using git");
 
